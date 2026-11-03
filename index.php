@@ -8,4 +8,5 @@
   <h1><?php echo "Ahoj, tady IT2-21!"; ?></h1>
   <p>Tenhle nadpis vyrobil program. Běžel na serveru, a server je teď počítač u GitHubu.</p>
 </body>
+<h2><?php echo "ahoj">
 </html>
