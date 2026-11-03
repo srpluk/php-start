@@ -1,0 +1,15 @@
+{
+  "name": "PHP start (PRG, IT2)",
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": {
+      "label": "PHP server (php -S localhost:8000)",
+      "onAutoForward": "notify"
+    }
+  },
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["README.md", "index.php"]
+    }
+  }
+}
